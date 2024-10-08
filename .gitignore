@@ -1,3 +1,9 @@
+#secrets
+secrets_config.py
+
+#visual studio
+.vs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
