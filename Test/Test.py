@@ -1,8 +1,9 @@
 import os
 from azure.storage.blob import BlobServiceClient
 from openai import AzureOpenAI
+from secrets_config import *
 
-connection_string = 
+connection_string = storage_account_connection_string()
 news_container_name = "news-text"
 news_blob_name = "art-2000010717534.txt"
 prompt_container_name = "prompt"
@@ -26,7 +27,7 @@ news_content = fetch_blob_content(connection_string, news_container_name, news_b
 prompt_content = fetch_blob_content(connection_string, prompt_container_name, prompt_blob_name)
 
 client = AzureOpenAI(
-    api_key="",
+    api_key=openapi_key(),
     api_version="2024-02-01",
     azure_endpoint="https://news-project-ai-eus.openai.azure.com/"
 )
