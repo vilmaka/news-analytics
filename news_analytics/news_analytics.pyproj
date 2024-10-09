@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1f9b8964-d2d1-4b90-8608-9366bd3a03aa</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>Test.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>get_positivity_index.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Test</Name>
+    <Name>news_analytics</Name>
     <RootNamespace>Test</RootNamespace>
     <SuppressConfigureTestFrameworkPrompt>true</SuppressConfigureTestFrameworkPrompt>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
@@ -26,8 +27,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="azure_config.py" />
+    <Compile Include="save_content_to_blob.py" />
+    <Compile Include="yle_get_content.py" />
     <Compile Include="secrets_config.py" />
-    <Compile Include="Test.py" />
+    <Compile Include="get_positivity_index.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

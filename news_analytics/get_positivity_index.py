@@ -5,7 +5,7 @@ from secrets_config import *
 
 connection_string = storage_account_connection_string()
 news_container_name = "news-text"
-news_blob_name = "art-2000010717534.txt"
+news_blob_name = "74-20116807"
 prompt_container_name = "prompt"
 prompt_blob_name = "prompt.txt"
 
