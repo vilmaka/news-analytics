@@ -24,3 +24,13 @@ def get_content(url: str):
         if text["type"] == "text":
             content_string += text["text"]
     return content_string
+
+def article_exist(url: str):
+    response = requests.get(url)
+        
+    if response.status_code == 200:
+        return True
+    elif response.status_code == 404:
+        return False
+    else:
+        raise Exception(f"Received status code: {response.status_code}")

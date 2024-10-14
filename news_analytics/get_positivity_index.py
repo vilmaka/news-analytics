@@ -2,6 +2,7 @@ import os
 from azure.storage.blob import BlobServiceClient
 from openai import AzureOpenAI
 from secrets_config import *
+import psycopg2
 
 connection_string = storage_account_connection_string()
 news_container_name = "news-text"
@@ -48,3 +49,36 @@ response = client.completions.create(
 )
 
 print(response.choices[0].text)
+
+
+#Insert the positivity index row to database.
+
+conn = psycopg2.connect(
+    dbname='news-data',
+    user=sql_username(),
+    password=sql_password(),
+    host='news-sql.postgres.database.azure.com',
+    port='5432'
+)
+
+transaction = conn.cursor()
+
+insert_query = """
+INSERT INTO news_scale (id, index_column)
+VALUES (%s, %s);
+"""
+
+data_to_insert = (news_blob_name, int(response.choices[0].text))
+
+try:
+    transaction.execute(insert_query, data_to_insert)
+    
+    conn.commit()
+    
+    print("Row inserted successfully.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+    conn.rollback()
+finally:
+    transaction.close()
+    conn.close()

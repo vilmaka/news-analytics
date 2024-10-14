@@ -5,7 +5,7 @@
     <ProjectGuid>1f9b8964-d2d1-4b90-8608-9366bd3a03aa</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>get_positivity_index.py</StartupFile>
+    <StartupFile>yle_get_new_articles.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,7 @@
     <Compile Include="yle_get_content.py" />
     <Compile Include="secrets_config.py" />
     <Compile Include="get_positivity_index.py" />
+    <Compile Include="yle_get_new_articles.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
