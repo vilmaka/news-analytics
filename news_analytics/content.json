@@ -1,0 +1,3741 @@
+{
+  "pageData": {
+    "article": {
+      "id": "74-20117600",
+      "language": "fi",
+      "url": { "full": "https://yle.fi/a/74-20117600" },
+      "headline": {
+        "image": {
+          "alt": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth.",
+          "source": "Petteri Sopanen / Yle",
+          "aspect": 1.4315496872828353,
+          "caption": "Tatu Chanth pienpuolueiden aluevaalitentissä 18.1.2022.",
+          "id": "39-90342561e6ca05e1e44",
+          "type": "image",
+          "alts": [
+            {
+              "language": "fin",
+              "value": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth."
+            }
+          ],
+          "blurhash": "LK9GOoM_-a-XImX1NWR%NEnoWAWB",
+          "tags": [
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "County elections in Finland in January 2022"
+                },
+                {
+                  "language": "fin",
+                  "value": "Suomen aluevaalit 2022"
+                },
+                {
+                  "language": "sme",
+                  "value": "Suoma guovloválggat 2022"
+                },
+                {
+                  "language": "swe",
+                  "value": "Välfärdsområdesval 2022"
+                }
+              ],
+              "extId": "18-329184"
+            },
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "county elections"
+                },
+                {
+                  "language": "fin",
+                  "value": "aluevaalit"
+                },
+                {
+                  "language": "sme",
+                  "value": "guovloválggat"
+                },
+                {
+                  "language": "swe",
+                  "value": "välfärdsområdesval"
+                }
+              ],
+              "extId": "18-228925"
+            },
+            {
+              "label": [
+                {
+                  "language": "fin",
+                  "value": "vaalitentti"
+                },
+                {
+                  "language": "swe",
+                  "value": "valutfrågning"
+                }
+              ],
+              "extId": "18-210570"
+            }
+          ],
+          "copyright": [
+            {
+              "language": "und",
+              "value": "Petteri Sopanen / Yle"
+            }
+          ],
+          "crops": [
+            {
+              "name": "16:9",
+              "aspect": 1.78,
+              "coordinates": {
+                "x": 0,
+                "y": 435,
+                "width": 4120,
+                "height": 2317
+              }
+            },
+            {
+              "name": "2:3",
+              "aspect": 0.67,
+              "coordinates": {
+                "x": 1492,
+                "y": 0,
+                "width": 1918,
+                "height": 2878
+              }
+            },
+            {
+              "name": "1:1",
+              "aspect": 1,
+              "coordinates": {
+                "x": 755,
+                "y": 0,
+                "width": 2878,
+                "height": 2878
+              }
+            },
+            {
+              "name": "5:2",
+              "aspect": 2.5,
+              "coordinates": {
+                "x": 0,
+                "y": 591,
+                "width": 4114,
+                "height": 1645
+              }
+            }
+          ],
+          "height": 2878,
+          "licence": {
+            "id": "6",
+            "name": [
+              {
+                "language": "und",
+                "value": "Yle"
+              }
+            ],
+            "properties": []
+          },
+          "created": "2022-01-18T16:09:09+02:00",
+          "modified": "2022-01-18T16:23:52+02:00",
+          "version": "1642515827",
+          "width": 4120,
+          "recommendedFormat": "jpg"
+        },
+        "full": "Eläinoikeuspuolue jälleen puoluerekisteriin"
+      },
+      "mainMedia": [
+        {
+          "alt": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth.",
+          "source": "Petteri Sopanen / Yle",
+          "aspect": 1.4315496872828353,
+          "caption": "Tatu Chanth pienpuolueiden aluevaalitentissä 18.1.2022.",
+          "id": "39-90342561e6ca05e1e44",
+          "type": "image",
+          "alts": [
+            {
+              "language": "fin",
+              "value": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth."
+            }
+          ],
+          "blurhash": "LK9GOoM_-a-XImX1NWR%NEnoWAWB",
+          "tags": [
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "County elections in Finland in January 2022"
+                },
+                {
+                  "language": "fin",
+                  "value": "Suomen aluevaalit 2022"
+                },
+                {
+                  "language": "sme",
+                  "value": "Suoma guovloválggat 2022"
+                },
+                {
+                  "language": "swe",
+                  "value": "Välfärdsområdesval 2022"
+                }
+              ],
+              "extId": "18-329184"
+            },
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "county elections"
+                },
+                {
+                  "language": "fin",
+                  "value": "aluevaalit"
+                },
+                {
+                  "language": "sme",
+                  "value": "guovloválggat"
+                },
+                {
+                  "language": "swe",
+                  "value": "välfärdsområdesval"
+                }
+              ],
+              "extId": "18-228925"
+            },
+            {
+              "label": [
+                {
+                  "language": "fin",
+                  "value": "vaalitentti"
+                },
+                {
+                  "language": "swe",
+                  "value": "valutfrågning"
+                }
+              ],
+              "extId": "18-210570"
+            }
+          ],
+          "copyright": [
+            {
+              "language": "und",
+              "value": "Petteri Sopanen / Yle"
+            }
+          ],
+          "crops": [
+            {
+              "name": "16:9",
+              "aspect": 1.78,
+              "coordinates": {
+                "x": 0,
+                "y": 435,
+                "width": 4120,
+                "height": 2317
+              }
+            },
+            {
+              "name": "2:3",
+              "aspect": 0.67,
+              "coordinates": {
+                "x": 1492,
+                "y": 0,
+                "width": 1918,
+                "height": 2878
+              }
+            },
+            {
+              "name": "1:1",
+              "aspect": 1,
+              "coordinates": {
+                "x": 755,
+                "y": 0,
+                "width": 2878,
+                "height": 2878
+              }
+            },
+            {
+              "name": "5:2",
+              "aspect": 2.5,
+              "coordinates": {
+                "x": 0,
+                "y": 591,
+                "width": 4114,
+                "height": 1645
+              }
+            }
+          ],
+          "height": 2878,
+          "licence": {
+            "id": "6",
+            "name": [
+              {
+                "language": "und",
+                "value": "Yle"
+              }
+            ],
+            "properties": []
+          },
+          "created": "2022-01-18T16:09:09+02:00",
+          "modified": "2022-01-18T16:23:52+02:00",
+          "version": "1642515827",
+          "width": 4120,
+          "recommendedFormat": "jpg"
+        }
+      ],
+      "authors": [
+        {
+          "organization": "Yle",
+          "id": "56-74-1526",
+          "name": "Elise Aaltonen",
+          "type": "Person"
+        }
+      ],
+      "datePublished": "2024-10-13T13:54:20+0300",
+      "dateContentModified": "2024-10-13T13:54:20+0300",
+      "dateJsonModified": "2024-10-13T14:07:57+0300",
+      "publisher": { "name": "Yle Uutiset" },
+      "publication": "uutiset",
+      "coverage": "national",
+      "content": [
+        {
+          "level": 1,
+          "text": "Eläinoikeuspuolue jälleen puoluerekisteriin",
+          "type": "heading"
+        },
+        {
+          "alt": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth.",
+          "source": "Petteri Sopanen / Yle",
+          "aspect": 1.4315496872828353,
+          "caption": "Tatu Chanth pienpuolueiden aluevaalitentissä 18.1.2022.",
+          "id": "39-90342561e6ca05e1e44",
+          "type": "image",
+          "alts": [
+            {
+              "language": "fin",
+              "value": "Elänoikeuspuolueen 2. varapuheenjohtaja Tatu Chanth."
+            }
+          ],
+          "blurhash": "LK9GOoM_-a-XImX1NWR%NEnoWAWB",
+          "tags": [
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "County elections in Finland in January 2022"
+                },
+                {
+                  "language": "fin",
+                  "value": "Suomen aluevaalit 2022"
+                },
+                {
+                  "language": "sme",
+                  "value": "Suoma guovloválggat 2022"
+                },
+                {
+                  "language": "swe",
+                  "value": "Välfärdsområdesval 2022"
+                }
+              ],
+              "extId": "18-329184"
+            },
+            {
+              "label": [
+                {
+                  "language": "eng",
+                  "value": "county elections"
+                },
+                {
+                  "language": "fin",
+                  "value": "aluevaalit"
+                },
+                {
+                  "language": "sme",
+                  "value": "guovloválggat"
+                },
+                {
+                  "language": "swe",
+                  "value": "välfärdsområdesval"
+                }
+              ],
+              "extId": "18-228925"
+            },
+            {
+              "label": [
+                {
+                  "language": "fin",
+                  "value": "vaalitentti"
+                },
+                {
+                  "language": "swe",
+                  "value": "valutfrågning"
+                }
+              ],
+              "extId": "18-210570"
+            }
+          ],
+          "copyright": [
+            {
+              "language": "und",
+              "value": "Petteri Sopanen / Yle"
+            }
+          ],
+          "crops": [
+            {
+              "name": "16:9",
+              "aspect": 1.78,
+              "coordinates": {
+                "x": 0,
+                "y": 435,
+                "width": 4120,
+                "height": 2317
+              }
+            },
+            {
+              "name": "2:3",
+              "aspect": 0.67,
+              "coordinates": {
+                "x": 1492,
+                "y": 0,
+                "width": 1918,
+                "height": 2878
+              }
+            },
+            {
+              "name": "1:1",
+              "aspect": 1,
+              "coordinates": {
+                "x": 755,
+                "y": 0,
+                "width": 2878,
+                "height": 2878
+              }
+            },
+            {
+              "name": "5:2",
+              "aspect": 2.5,
+              "coordinates": {
+                "x": 0,
+                "y": 591,
+                "width": 4114,
+                "height": 1645
+              }
+            }
+          ],
+          "height": 2878,
+          "licence": {
+            "id": "6",
+            "name": [
+              {
+                "language": "und",
+                "value": "Yle"
+              }
+            ],
+            "properties": []
+          },
+          "created": "2022-01-18T16:09:09+02:00",
+          "modified": "2022-01-18T16:23:52+02:00",
+          "version": "1642515827",
+          "width": 4120,
+          "recommendedFormat": "jpg"
+        },
+        {
+          "text": "Eläinoikeuspuolue on jälleen merkitty puoluerekisteriin, kertoo oikeusministeriö.",
+          "type": "text"
+        },
+        {
+          "text": "Puolue on kerännyt vaadittavat 5000 kannatusilmoitusta. Ensimmäisen kerran puolue rekisteröitiin vuonna 2016. Se poistettiin rekisteristä vuoden 2023 eduskuntavaalien jälkeen, sillä kansanedustajapaikkaa ei kaksissa perättäisissä eduskuntavaaleissa tullut.",
+          "type": "text"
+        },
+        {
+          "text": "Puheenjohtaja **Tatu Chanth** sanoo puolueen tiedotteessa, että muiden puolueiden ohjelmissa ja aiheissa eläimet ovat lähes näkymättömissä.",
+          "type": "text"
+        },
+        {
+          "text": "Puolueen kerrotaan parhaillaan valmistautuvan alue- ja kuntavaaleihin. Eläinoikeuspolitiikka on vaaliohjelman ydin, mutta sen kerrotaan ulottuvan myös muihin politiikan sektoreihin.",
+          "type": "text"
+        },
+        {
+          "text": "Rekisterissä on lisäyksen jälkeen 17 puoluetta.",
+          "type": "text"
+        }
+      ],
+      "subjects": [
+        {
+          "description": {
+            "fi": "Alkuperältään politiikka on käytännön tai teorian vaikuttamista toisiin ihmisiin globaalilla, kansallisella tai yksilöllisellä tasolla. Nykyisessä yleiskielessä sanalla politiikka tarkoitetaan usein johonkin tiettyyn kokonaisnäkemykseen tai aatteeseen pohjautuvaa toimintaa, jolla pyritään vaikuttamaan valtiollisiin, valtioiden välisiin tai yhteiskunnallisiin asioihin tai jolla hoidetaan niitä.",
+            "sv": "Politik betyder ursprungligen 'statskonst', och avser som regel alla de åtgärder och handlingar som hör till det allmänna livet (kommuner, stater, mellanstater), och inrymmer allt från diskussioner om offentliga angelägenheter till statlig verksamhet och organisation. ",
+            "en": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations between individuals, such as the distribution of resources or status. ",
+            "ru": "None",
+            "se": "None"
+          },
+          "exactMatch": [ "finto:http://www.yso.fi/onto/koko/p32958", "freebase:/g/121zcpgf", "wikidata:Q7163", "wikidata:Q12914185", "leiki:focus100k_na_11", "freebase:/m/05qt0", "escenic:politiikka", "wikidata:Q177220", "finto:http://www.yso.fi/onto/koko/p72084", "escenic:uutiset-politiikka" ],
+          "updated": "2022-10-02T21:00:13+03:00",
+          "alternativeIds": [ "18-279453", "18-20147", "18-121031", "18-81858", "18-205458", "18-145631", "18-35369", "18-152515", "18-5320", "18-215853", "18-218749", "18-211456", "18-210082", "18-446", "18-38033" ],
+          "title": {
+            "fi": "politiikka",
+            "sv": "politik",
+            "en": "politics",
+            "ru": "????????",
+            "se": "politihkka"
+          },
+          "types": [ "MainConcept", "Concept", "YleNews", "RecommendationCategory", "YleSápmi", "YleNovosti" ],
+          "id": "18-220306",
+          "contentHits": 73235
+        },
+        {
+          "description": {
+            "fi": "Eläinoikeuspuolue r.p. (ruots. Djurrättspartiet r.p., engl. Animal Justice Party of Finland, lyh. EOP) on vuonna 2015 perustettu ja vuodesta 2016 alkaen puoluerekisterissä ollut suomalainen puolue.\nSuomen Eläinoikeuspuolue määrittelee itsensä poliittisena toimijana, jonka tavoitteena on tehdä Suomesta kaikkien eläinten yhteiskunta, edistää lajista riippumatonta oikeudenmukaisuutta ja lopettaa eläinten käyttäminen tuotantokoneiston osana. Puolueen manifesti on radikaalikenen mukaan? visio kaikkea elämää kunnioittavasta yhteiskunnasta, josta linjataan tarkemmin puolueen poliittisessa yleisohjelmassa.",
+            "sv": "finländskt politiskt partiet",
+            "en": "None",
+            "ru": "None",
+            "se": "None"
+          },
+          "exactMatch": [ "wikidata:Q27429948", "leiki:focus100k_na_995917" ],
+          "updated": "2023-03-03T11:24:25+02:00",
+          "alternativeIds": [ "18-249113" ],
+          "title": {
+            "fi": "Eläinoikeuspuolue",
+            "sv": "Djurrättspartiet i Finland",
+            "en": "None",
+            "ru": "None",
+            "se": "None"
+          },
+          "types": [ "Concept" ],
+          "id": "18-249017",
+          "contentHits": 14
+        }
+      ],
+      "meta": {
+        "relations": [
+          {
+            "relationType": "isEditorialSectionOf",
+            "id": "18-358955",
+            "type": "concept",
+            "description": {
+              "fi": "ÄLÄ KÄYTÄ ASIASANOITTAMISEEN!\nLue tästä päivän tuoreimmat uutiset",
+              "sv": "None",
+              "en": "None",
+              "ru": "None",
+              "se": "None"
+            },
+            "exactMatch": [],
+            "updated": "2024-04-08T15:14:01+03:00",
+            "alternativeIds": [],
+            "title": {
+              "fi": "Uutisia lyhyesti",
+              "sv": "None",
+              "en": "None",
+              "ru": "None",
+              "se": "None"
+            },
+            "types": [ "Concept", "EditorialSection" ],
+            "contentHits": 65
+          },
+          {
+            "id": "18-358955",
+            "relationType": "isSecondaryEditorialSectionOf",
+            "type": "concept",
+            "description": {
+              "fi": "ÄLÄ KÄYTÄ ASIASANOITTAMISEEN!\nLue tästä päivän tuoreimmat uutiset",
+              "sv": "None",
+              "en": "None",
+              "ru": "None",
+              "se": "None"
+            },
+            "exactMatch": [],
+            "updated": "2024-04-08T15:14:01+03:00",
+            "alternativeIds": [],
+            "title": {
+              "fi": "Uutisia lyhyesti",
+              "sv": "None",
+              "en": "None",
+              "ru": "None",
+              "se": "None"
+            },
+            "types": [ "Concept", "EditorialSection" ],
+            "contentHits": 65
+          }
+        ],
+        "costCenters": [ "60-13700-UA-keskustoimitus" ],
+        "analytics": {
+          "yle_ydd_subject": "uutisia-lyhyesti",
+          "yle_contenttype": "article",
+          "yle_language": "fi",
+          "yle_update": "2024-10-13",
+          "countername": "uutisia-lyhyesti.elainoikeuspuolue-jalleen-puoluerekisteriin.sivu",
+          "yle_stickytitle": "elainoikeuspuolue-jalleen-puoluerekisteriin",
+          "yle_pub": "2024-10-13",
+          "yle_pubtime": "13-54",
+          "yle_artby": "elise.aaltonen",
+          "yle_topic": "politiikka;elainoikeuspuolue",
+          "yle_uptime": "13-54",
+          "yle_system": "xynd",
+          "yle_articleid": "20117600",
+          "yle_organization": "60-13700-UA-keskustoimitus"
+        },
+        "departments": [
+          {
+            "uname": "uutiset/lyhyesti",
+            "name": "Uutisia lyhyesti"
+          }
+        ],
+        "mainDepartment": {
+          "uname": "uutiset/lyhyesti",
+          "name": "Uutisia lyhyesti"
+        }
+      },
+      "properties": [ "audio:enabled", "priority:normal" ],
+      "audioContent": {
+        "url": "https://article-audio-backend-prod.c1.yle.fi/87-74-20117600.1728816860-003.mp3",
+        "duration": "PT54S"
+      },
+      "comments": {
+        "id": "33-9c8cf1a2-60c5-438d-ad5c-98d2925076da",
+        "isLocked": "True",
+        "isHidden": "True",
+        "acceptedCommentsCount": 0,
+        "lockedAt": "None"
+      }
+    },
+    "sidebarLayout": [
+      {
+        "type": 1,
+        "title": "Luetuimmat",
+        "ariaLabelId": "sb-most-read",
+        "displayDate": "False",
+        "stories": [
+          {
+            "contentId": "74-20117951",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117951",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Uutta tietoa: Janne Puhakka oli muuttanut pois Espoon kodista – puoliso ampui Puhakan, kun tämä tuli käymään entisessä kodissaan" },
+              "lead": {
+                "text": "Henki\\xadri\\xadkoksen motiivi oli parisuhteen päättyminen.  Poliisi tekee tänään vangit\\xadse\\xadmis\\xadvaa\\xadti\\xadmuksen Puhakan norja\\xadlaisesta puolisosta.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-ea1ad5a3-0a7f-406f-b772-9038877e3344",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363284670cdb6140d6e",
+              "alt": "Mustavalkoinen kuva Janne Puhakasta toppatakissa ja lippalakissa, nojaamassa johonkin jääkiekkohanskat kädessä.",
+              "blurhash": "LwHetWt7ayj[~qofayof%Mt7WBWB",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2387,
+                    "width": 4245,
+                    "x": 4,
+                    "y": 331
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3187,
+                    "width": 2113,
+                    "x": 1193,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3174,
+                    "width": 3174,
+                    "x": 516,
+                    "y": 13
+                  }
+                }
+              ],
+              "version": "1728982166"
+            },
+            "publishedAt": "2024-10-15T10:02:35+0300",
+            "concepts": [
+              {
+                "id": "18-340121",
+                "text": "Rikosepäilyt",
+                "url": "https://yle.fi/t/18-340121/fi"
+              },
+              {
+                "id": "18-311471",
+                "text": "Länsi-Uudenmaan poliisilaitos",
+                "url": "https://yle.fi/t/18-311471/fi"
+              },
+              {
+                "id": "18-213782",
+                "text": "Henkirikokset",
+                "url": "https://yle.fi/t/18-213782/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117307",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117307",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Koulun tunnelma muuttui yhdessä yössä, kun kaupunki lopetti kasin aamut" },
+              "lead": {
+                "text": "Useat tutkimukset kertovat, että myöhäisemmät aamut hyödyttävät oppilaita. Suurin merkitys niillä on nuorille, joilla on myöhäinen unirytmi.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-7f5b1959-91e2-4e58-9028-198d048f1cf3",
+              "isHidden": "False",
+              "isLocked": "False",
+              "acceptedCommentsCount": 241
+            },
+            "image": {
+              "id": "39-1363229670cca9e13ef4",
+              "alt": "Kolme nuorta istuu ja katsoo kameraan.",
+              "blurhash": "L7IN?a00019Gaa}?yCt7?HIT?HM|",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 695,
+                    "width": 1237,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 698,
+                    "width": 465,
+                    "x": 378,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 698,
+                    "width": 698,
+                    "x": 336,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 494,
+                    "width": 1237,
+                    "x": 0,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728891738"
+            },
+            "playableMedia": {
+              "id": "1-72134286",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T06:30:13+0300",
+            "concepts": [
+              {
+                "id": "18-212557",
+                "text": "Koulutus",
+                "url": "https://yle.fi/t/18-212557/fi"
+              },
+              {
+                "id": "18-122322",
+                "text": "Perusopetus",
+                "url": "https://yle.fi/t/18-122322/fi"
+              },
+              {
+                "id": "18-167867",
+                "text": "Forssa",
+                "url": "https://yle.fi/t/18-167867/fi"
+              },
+              {
+                "id": "18-219726",
+                "text": "Koululaiset",
+                "url": "https://yle.fi/t/18-219726/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-195288",
+                "text": "Kanta-Häme",
+                "url": "https://yle.fi/t/18-195288/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117769",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117769",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Tämä tiedetään norja\\xadlaisesta Rolf Nordmosta, jota epäillään puolisonsa Janne Puhakan murhasta" },
+              "lead": {
+                "text": "Sunnuntai-iltana henki\\xadri\\xadkoksen uhriksi joutunut Janne Puhakka puhui norja\\xadlaisesta miehestään muun muassa pari vuotta sitten julkaistussa kirjassaan.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-c374251a-58a8-427f-867e-a5e3e8c5ff72",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363479670cfa70f0f02",
+              "alt": "Poliisin eristysnauhoilla ympäröity paritalon osa.",
+              "blurhash": "LXIgyEysI;+u4.rWX9kDEhxFwcJ9",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 3345,
+                    "width": 5947,
+                    "x": 0,
+                    "y": 269
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3965,
+                    "width": 2643,
+                    "x": 2724,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3965,
+                    "width": 3965,
+                    "x": 1974,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728903821"
+            },
+            "publishedAt": "2024-10-14T14:25:33+0300",
+            "concepts": [
+              {
+                "id": "18-340121",
+                "text": "Rikosepäilyt",
+                "url": "https://yle.fi/t/18-340121/fi"
+              },
+              {
+                "id": "18-213782",
+                "text": "Henkirikokset",
+                "url": "https://yle.fi/t/18-213782/fi"
+              },
+              {
+                "id": "18-303398",
+                "text": "Janne Puhakka",
+                "url": "https://yle.fi/t/18-303398/fi"
+              },
+              {
+                "id": "18-207906",
+                "text": "Jääkiekkoilijat",
+                "url": "https://yle.fi/t/18-207906/fi"
+              },
+              {
+                "id": "18-210292",
+                "text": "Homoseksuaalisuus",
+                "url": "https://yle.fi/t/18-210292/fi"
+              },
+              {
+                "id": "18-213947",
+                "text": "Poliisi",
+                "url": "https://yle.fi/t/18-213947/fi"
+              },
+              {
+                "id": "18-172823",
+                "text": "Espoo",
+                "url": "https://yle.fi/t/18-172823/fi"
+              },
+              {
+                "id": "18-177980",
+                "text": "Uusimaa",
+                "url": "https://yle.fi/t/18-177980/fi"
+              },
+              {
+                "id": "18-194712",
+                "text": "Länsi-Uusimaa",
+                "url": "https://yle.fi/t/18-194712/fi"
+              },
+              {
+                "id": "18-217206",
+                "text": "Rikokset",
+                "url": "https://yle.fi/t/18-217206/fi"
+              },
+              {
+                "id": "18-291229",
+                "text": "Yle Uutiset somenostot",
+                "url": "https://yle.fi/t/18-291229/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117380",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117380",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Suomessakin tehdään neitsyyden korjaus\\xadleik\\xadkauksia – sala\\xadpu\\xadheluissa kaksi klinikkaa sanoi ottavansa vastaan alaikäisiä" },
+              "lead": {
+                "text": "Yksityiset lääkä\\xadri\\xadkes\\xadkukset tarjoavat Suomessa neitsyyden korjaus\\xadleik\\xadkauksia. Soitimme niille selvit\\xadtääksemme, tehtäisiinkö leikkauksia ja neitsyys\\xadtut\\xadki\\xadmuksia myös alaikäisille.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-f59670e0-fe70-45ba-832c-39eec8616ae8",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-136224967090baf9df29",
+              "alt": "Rojin Birzoi puhuu puhelimeen. Toimittaja Jessica Stolzmann kuuntelee.",
+              "blurhash": "L9H{H2Xo8^JC9Y_3RPxv?^?vIAiw",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1197,
+                    "width": 2128,
+                    "x": 0,
+                    "y": 45
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 1187,
+                    "width": 791,
+                    "x": 234,
+                    "y": 55
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 1406,
+                    "width": 1406,
+                    "x": 263,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 850,
+                    "width": 2125,
+                    "x": 0,
+                    "y": 165
+                  }
+                }
+              ],
+              "version": "1728646193"
+            },
+            "publishedAt": "2024-10-15T09:11:09+0300",
+            "concepts": [
+              {
+                "id": "18-16104",
+                "text": "Nuoret",
+                "url": "https://yle.fi/t/18-16104/fi"
+              },
+              {
+                "id": "18-215768",
+                "text": "Neitsyys",
+                "url": "https://yle.fi/t/18-215768/fi"
+              },
+              {
+                "id": "18-207885",
+                "text": "Kunniaväkivalta",
+                "url": "https://yle.fi/t/18-207885/fi"
+              },
+              {
+                "id": "18-35630",
+                "text": "Lapset ja nuoret",
+                "url": "https://yle.fi/t/18-35630/fi"
+              },
+              {
+                "id": "18-211709",
+                "text": "Maahanmuuttajat",
+                "url": "https://yle.fi/t/18-211709/fi"
+              },
+              {
+                "id": "18-204522",
+                "text": "Perheet",
+                "url": "https://yle.fi/t/18-204522/fi"
+              },
+              {
+                "id": "18-45374",
+                "text": "Perinteet",
+                "url": "https://yle.fi/t/18-45374/fi"
+              },
+              {
+                "id": "18-214467",
+                "text": "Kunnia",
+                "url": "https://yle.fi/t/18-214467/fi"
+              },
+              {
+                "id": "18-55876",
+                "text": "Kirurgiset lääkäripalvelut",
+                "url": "https://yle.fi/t/18-55876/fi"
+              },
+              {
+                "id": "18-186623",
+                "text": "MOT",
+                "url": "https://yle.fi/t/18-186623/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117708",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117708",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "S-ryhmä veti reilut banaanit hyllystä – ja romahdutti niiden markkinat" },
+              "lead": {
+                "text": "S-ryhmä poisti Reilun kaupan banaanit useimpien myymä\\xadlöidensä valikoimasta. Tuloksena on histo\\xadrial\\xadlinen notkahdus Reilun kaupan banaanien myynnissä. Reilun kaupan takuuhinta ei aina  nosta viljelijöitä köyhyydestä.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-258425cb-cfa9-4d0a-a260-8ef4cb3ffcd5",
+              "isHidden": "False",
+              "isLocked": "False",
+              "acceptedCommentsCount": 234
+            },
+            "image": {
+              "id": "39-1363646670d265a75961",
+              "alt": "Toimittaja Pasi Toivonen hedelmäosastolla esittelemässä Reilun kaupan banaania, sinisen takki, harmaa parta, ruskeasankaiset silmälasit.",
+              "blurhash": "LPHxKM?Fx[M|_Np0NG$~%hx[oJbH",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1919,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 720,
+                    "x": 591,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1080,
+                    "x": 361,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728915113"
+            },
+            "playableMedia": {
+              "id": "1-72134010",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T05:55:39+0300",
+            "concepts": [
+              {
+                "id": "18-330776",
+                "text": "Kuluttajat",
+                "url": "https://yle.fi/t/18-330776/fi"
+              },
+              {
+                "id": "18-145992",
+                "text": "S-ryhmä",
+                "url": "https://yle.fi/t/18-145992/fi"
+              },
+              {
+                "id": "18-214501",
+                "text": "Reilu kauppa",
+                "url": "https://yle.fi/t/18-214501/fi"
+              },
+              {
+                "id": "18-206167",
+                "text": "Banaani",
+                "url": "https://yle.fi/t/18-206167/fi"
+              },
+              {
+                "id": "18-140717",
+                "text": "Lidl",
+                "url": "https://yle.fi/t/18-140717/fi"
+              },
+              {
+                "id": "18-187768",
+                "text": "Kesko",
+                "url": "https://yle.fi/t/18-187768/fi"
+              },
+              {
+                "id": "18-214130",
+                "text": "Hedelmät",
+                "url": "https://yle.fi/t/18-214130/fi"
+              },
+              {
+                "id": "18-204933",
+                "text": "Talous",
+                "url": "https://yle.fi/t/18-204933/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          }
+        ]
+      },
+      {
+        "type": 0,
+        "title": "Tuoreimmat",
+        "ariaLabelId": "sb-most-recent",
+        "displayDate": "True",
+        "stories": [
+          {
+            "contentId": "74-20117826",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117826",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Oma Säästöpankin entinen työntekijä sai ehdollista törkeästä kaval\\xadluksesta ja väären\\xadnyksestä" },
+              "lead": {
+                "text": "Nainen myönsi varas\\xadtaneensa rahaa pankin kahdelta asiakkaalta sekä omalta isältään. Hän peitteli tekojaan muun muassa väären\\xadtämällä asiakkaiden alle\\xadkir\\xadjoi\\xadtuksia.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-7a1dc6dd-0bbb-489f-9d49-1220aec45fcb",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1277866662f74dfd5978",
+              "alt": "OmaSP logo talon seinässä kiinni.",
+              "blurhash": "LqManb_N#??boft7V@WB^,o3E0R%",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2467,
+                    "width": 4386,
+                    "x": 0,
+                    "y": 282
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 2924,
+                    "width": 1949,
+                    "x": 1173,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2924,
+                    "width": 2924,
+                    "x": 664,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1714386372"
+            },
+            "publishedAt": "2024-10-15T11:55:54+0300",
+            "concepts": [
+              {
+                "id": "18-217206",
+                "text": "Rikokset",
+                "url": "https://yle.fi/t/18-217206/fi"
+              },
+              {
+                "id": "18-283072",
+                "text": "Oma Säästöpankki",
+                "url": "https://yle.fi/t/18-283072/fi"
+              },
+              {
+                "id": "18-208514",
+                "text": "Kavallus",
+                "url": "https://yle.fi/t/18-208514/fi"
+              },
+              {
+                "id": "18-214724",
+                "text": "Talousrikokset",
+                "url": "https://yle.fi/t/18-214724/fi"
+              },
+              {
+                "id": "18-171883",
+                "text": "Etelä-Pohjanmaa",
+                "url": "https://yle.fi/t/18-171883/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20118003",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20118003",
+            "size": "S",
+            "texts": { "headline": { "text": "Ruotsin syyttäjä vahvistaa: tutkii raiskause\\xadpäilyä Mbappén vierailun jälkeen" } },
+            "topic": {
+              "id": "33-a0344d66-7e8f-435f-aa3d-78f4d79994ed",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1316083668da352b3415",
+              "alt": "Kylian Mbappe harmissaan EM-välierässä.",
+              "blurhash": "L9Ef1$?c00D#00E0_N-@?^xu^lko",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1992,
+                    "width": 3543,
+                    "x": 0,
+                    "y": 130
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 2123,
+                    "width": 1415,
+                    "x": 919,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2123,
+                    "width": 2123,
+                    "x": 797,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 1416,
+                    "width": 3541,
+                    "x": 1,
+                    "y": 251
+                  }
+                }
+              ],
+              "version": "1720558637"
+            },
+            "publishedAt": "2024-10-15T11:53:36+0300",
+            "concepts": [
+              {
+                "id": "18-189082",
+                "text": "Ruotsi",
+                "url": "https://yle.fi/t/18-189082/fi"
+              },
+              {
+                "id": "18-246565",
+                "text": "Kylian Mbappé",
+                "url": "https://yle.fi/t/18-246565/fi"
+              },
+              {
+                "id": "18-34953",
+                "text": "Ulkomaat",
+                "url": "https://yle.fi/t/18-34953/fi"
+              },
+              {
+                "id": "18-16187",
+                "text": "Epäillyt",
+                "url": "https://yle.fi/t/18-16187/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117999",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117999",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Vakuuttava Saksa rymisteli Kansojen liigan puoli\\xadvä\\xadlieriin" },
+              "lead": {
+                "text": "Saksan miesten jalka\\xadpal\\xadlo\\xadmaa\\xadjouk\\xadkueen kokoon\\xadpanosta näyttää nousevan ottelusta toiseen tuoreita ratkai\\xadsijoita. Eilen joukkue kaatoi Hollannin.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-d525673e-b76c-4608-b1f5-b360af98c0d7",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363907670e2b380ddd8",
+              "alt": "Jamie Leweling.",
+              "blurhash": "L5D0DG?q00M_qTi,XSw}7R9]?wx]",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 3277,
+                    "width": 5827,
+                    "x": 0,
+                    "y": 203
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3869,
+                    "width": 2579,
+                    "x": 1414,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3869,
+                    "width": 3869,
+                    "x": 773,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728981845"
+            },
+            "publishedAt": "2024-10-15T11:48:00+0300",
+            "concepts": [
+              {
+                "id": "18-205598",
+                "text": "Jalkapallo",
+                "url": "https://yle.fi/t/18-205598/fi"
+              },
+              {
+                "id": "18-284755",
+                "text": "UEFA Kansojen liiga",
+                "url": "https://yle.fi/t/18-284755/fi"
+              },
+              {
+                "id": "18-130370",
+                "text": "Saksan miesten jalkapallomaajoukkue",
+                "url": "https://yle.fi/t/18-130370/fi"
+              }
+            ],
+            "publisher": "Yle Urheilu",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117996",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117996",
+            "size": "S",
+            "texts": { "headline": { "text": "Venäjä sulkee konsu\\xadlaattinsa Kirkko\\xadniemessä" } },
+            "topic": {
+              "id": "33-73befaa1-3a2d-4673-ab2d-478e5ef79562",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1191293653950153ee9d",
+              "alt": "Venäjän konsulaatti Kirkkoniemessä. Hyökkäyssodasta muistuttavat sydämet Ukrainan väreissä. Heinäkuu 2023. ",
+              "blurhash": "LOG98J-;%OM|?w%NxvRjtTtR-:V@",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2265,
+                    "width": 4028,
+                    "x": 3,
+                    "y": 605
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3024,
+                    "width": 2008,
+                    "x": 1984,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3024,
+                    "width": 3024,
+                    "x": 945,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 1606,
+                    "width": 4028,
+                    "x": 0,
+                    "y": 661
+                  }
+                }
+              ],
+              "version": "1698255057"
+            },
+            "publishedAt": "2024-10-15T11:38:33+0300",
+            "concepts": [
+              {
+                "id": "18-180720",
+                "text": "Venäjä",
+                "url": "https://yle.fi/t/18-180720/fi"
+              },
+              {
+                "id": "18-183818",
+                "text": "Norja",
+                "url": "https://yle.fi/t/18-183818/fi"
+              },
+              {
+                "id": "18-34953",
+                "text": "Ulkomaat",
+                "url": "https://yle.fi/t/18-34953/fi"
+              },
+              {
+                "id": "18-272436",
+                "text": "Kirkkoniemi",
+                "url": "https://yle.fi/t/18-272436/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117430",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117430",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Mieluummin kovaa kuin paljon – väitös\\xadtut\\xadkimus paljastaa tehokkaan treenaamisen salat" },
+              "lead": {
+                "text": "Pekka Matomäen väitös\\xadtut\\xadkimus paljastaa, että pelkkä suuri harjoittelun määrä ei riitä kestä\\xadvyys\\xadkunnon kohotukseen, jos inten\\xadsiteetti on liian matala.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-0f204a42-37ef-4e65-8985-4b99b5fe5e6a",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-134676266e14a2a27b9e",
+              "alt": "Juoksijan jalat.",
+              "blurhash": "L1AJsM]W0#000000loKl190z-B^0",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2103,
+                    "width": 3739,
+                    "x": 0,
+                    "y": 202
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 2492,
+                    "width": 1661,
+                    "x": 471,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2492,
+                    "width": 2492,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 1496,
+                    "width": 3740,
+                    "x": 0,
+                    "y": 890
+                  }
+                }
+              ],
+              "version": "1726041096"
+            },
+            "playableMedia": {
+              "id": "1-72134290",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T11:32:21+0300",
+            "concepts": [
+              {
+                "id": "18-214216",
+                "text": "Tutkimus",
+                "url": "https://yle.fi/t/18-214216/fi"
+              },
+              {
+                "id": "18-196199",
+                "text": "Jyväskylän yliopisto",
+                "url": "https://yle.fi/t/18-196199/fi"
+              },
+              {
+                "id": "18-214356",
+                "text": "Väitöskirjat",
+                "url": "https://yle.fi/t/18-214356/fi"
+              },
+              {
+                "id": "18-204157",
+                "text": "Liikunta",
+                "url": "https://yle.fi/t/18-204157/fi"
+              },
+              {
+                "id": "18-216508",
+                "text": "Kuntoliikunta",
+                "url": "https://yle.fi/t/18-216508/fi"
+              },
+              {
+                "id": "18-214733",
+                "text": "Liikuntaharjoitukset",
+                "url": "https://yle.fi/t/18-214733/fi"
+              },
+              {
+                "id": "18-218331",
+                "text": "Liikuntaharrastus",
+                "url": "https://yle.fi/t/18-218331/fi"
+              },
+              {
+                "id": "18-212147",
+                "text": "Tieteet",
+                "url": "https://yle.fi/t/18-212147/fi"
+              },
+              {
+                "id": "18-199040",
+                "text": "Jyväskylä",
+                "url": "https://yle.fi/t/18-199040/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117971",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117971",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Suoma\\xadlais\\xadkeksintö voi mullistaa syöpä\\xadki\\xadrurgian – uutta teknologiaa on kokeiltu Tampereella nyt ensimmäisenä maailmassa" },
+              "lead": {
+                "text": "Tampereen yliopis\\xadtol\\xadlisen sairaalan mukaan kyseessä on ensimmäinen kerta maailmassa, kun kudos\\xadtun\\xadnis\\xadtus\\xadtek\\xadno\\xadlogiaa on käytetty  aivo\\xadkas\\xadvaimen poistossa.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-48736c7b-3a41-4196-969f-027b17b6cbce",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363799670e147003f4f",
+              "alt": "Tampereen yliopistollisen sairaalan neurokirurgi Joonas Haapasalo leikkaa aivokasvainta uuden laitteen avulla.",
+              "blurhash": "LNCP^uE2OErX_4ELN_rW?cIotRrq",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 607,
+                    "width": 1080,
+                    "x": 0,
+                    "y": 73
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 720,
+                    "width": 479,
+                    "x": 188,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 720,
+                    "width": 720,
+                    "x": 92,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728976163"
+            },
+            "publishedAt": "2024-10-15T11:26:12+0300",
+            "concepts": [
+              {
+                "id": "18-209306",
+                "text": "Terveys",
+                "url": "https://yle.fi/t/18-209306/fi"
+              },
+              {
+                "id": "18-181616",
+                "text": "Tampereen yliopistollinen sairaala (TAYS)",
+                "url": "https://yle.fi/t/18-181616/fi"
+              },
+              {
+                "id": "18-186706",
+                "text": "Itä-Suomen yliopisto",
+                "url": "https://yle.fi/t/18-186706/fi"
+              },
+              {
+                "id": "18-186470",
+                "text": "Tampere",
+                "url": "https://yle.fi/t/18-186470/fi"
+              },
+              {
+                "id": "18-168477",
+                "text": "Kuopio",
+                "url": "https://yle.fi/t/18-168477/fi"
+              },
+              {
+                "id": "18-7505",
+                "text": "Aivokasvaimet (kasvaimet)",
+                "url": "https://yle.fi/t/18-7505/fi"
+              },
+              {
+                "id": "18-207198",
+                "text": "Kirurgia",
+                "url": "https://yle.fi/t/18-207198/fi"
+              },
+              {
+                "id": "18-30312",
+                "text": "Syövät",
+                "url": "https://yle.fi/t/18-30312/fi"
+              },
+              {
+                "id": "18-219402",
+                "text": "Lääketiede",
+                "url": "https://yle.fi/t/18-219402/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-173822",
+                "text": "Pirkanmaa",
+                "url": "https://yle.fi/t/18-173822/fi"
+              },
+              {
+                "id": "18-181838",
+                "text": "Pohjois-Savo",
+                "url": "https://yle.fi/t/18-181838/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117980",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117980",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Sää lämpenee – ”Luvassa on mukavaa syyslo\\xadmasäätä”, ennustaa Ylen meteorologi" },
+              "lead": {
+                "text": "Sateet jäävät lähes olemattomiin loppu\\xadviikolla.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-d6f7aa0b-4467-4f8e-bd76-f67dfbd26bc4",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363841670e20c93d50c",
+              "alt": "Kaksi ihmistä kävelee pudonneiden lehtien peittämällä kadulla keltaisten vaahteroiden keskellä.",
+              "blurhash": "LJHe22NFDlaJ~9odRPRjMza%NHkC",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2872,
+                    "width": 5107,
+                    "x": 7,
+                    "y": 324
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3197,
+                    "width": 2123,
+                    "x": 2897,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3197,
+                    "width": 3197,
+                    "x": 1098,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728979217"
+            },
+            "publishedAt": "2024-10-15T11:25:44+0300",
+            "concepts": [
+              {
+                "id": "18-215833",
+                "text": "Sää",
+                "url": "https://yle.fi/t/18-215833/fi"
+              },
+              {
+                "id": "18-287438",
+                "text": "Syysloma",
+                "url": "https://yle.fi/t/18-287438/fi"
+              },
+              {
+                "id": "18-43349",
+                "text": "Syyssää",
+                "url": "https://yle.fi/t/18-43349/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117990",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117990",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Poliisi: 23-vuotias nainen tapettiin Oulussa – entinen kumppani myönsi haudanneensa ruumiin" },
+              "lead": {
+                "text": "Kadonneeksi ilmoitetun naisen ruumis löydettiin Oulun lähistöltä haudattuna viime lauantaina.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-0c3d7ca8-fe99-4c8c-b3ab-d85e5ff00f1c",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1359256670235eac7807",
+              "alt": "Lähikuvassa on valkoisen pakettiauton perä, jossa on sininen tarra ja siinä logo.",
+              "blurhash": "LXJbBV%NIS-:M|%2RjWB~p?aIWRk",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2218,
+                    "width": 3958,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 2227,
+                    "width": 1484,
+                    "x": 1274,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2227,
+                    "width": 2227,
+                    "x": 824,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 1583,
+                    "width": 3958,
+                    "x": 0,
+                    "y": 235
+                  }
+                }
+              ],
+              "version": "1728456270"
+            },
+            "publishedAt": "2024-10-15T11:12:58+0300",
+            "concepts": [
+              {
+                "id": "18-213947",
+                "text": "Poliisi",
+                "url": "https://yle.fi/t/18-213947/fi"
+              },
+              {
+                "id": "18-177640",
+                "text": "Oulu",
+                "url": "https://yle.fi/t/18-177640/fi"
+              },
+              {
+                "id": "18-213782",
+                "text": "Henkirikokset",
+                "url": "https://yle.fi/t/18-213782/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-198232",
+                "text": "Pohjois-Pohjanmaa",
+                "url": "https://yle.fi/t/18-198232/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117952",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117952",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Suunnit\\xadteliko Rolf Nordmo pitkään Janne Puhakan surmaamista? Nämä seikat ovat auki Espoon murha\\xadtut\\xadkinnassa" },
+              "lead": {
+                "text": "Rikoksesta epäillyn Rolf Nordmon taustasta ei ole löytynyt aiempia rikos\\xadtuomioita.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-3ab35688-9684-4309-8907-390752ed34ee",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363516670d04cd1f3b2",
+              "alt": "Paritalon puolikas Espoossa, ympärillä poliisin eristysnauhaa.",
+              "blurhash": "LEEyJK9F00x]?wE1iw?b9Et7-qxu",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 3320,
+                    "width": 5903,
+                    "x": 1,
+                    "y": 383
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3935,
+                    "width": 2623,
+                    "x": 2110,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3936,
+                    "width": 3936,
+                    "x": 856,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728906768"
+            },
+            "publishedAt": "2024-10-15T11:12:41+0300",
+            "concepts": [
+              {
+                "id": "18-340121",
+                "text": "Rikosepäilyt",
+                "url": "https://yle.fi/t/18-340121/fi"
+              },
+              {
+                "id": "18-218464",
+                "text": "Murha",
+                "url": "https://yle.fi/t/18-218464/fi"
+              },
+              {
+                "id": "18-213782",
+                "text": "Henkirikokset",
+                "url": "https://yle.fi/t/18-213782/fi"
+              },
+              {
+                "id": "18-19348",
+                "text": "Parisuhdeväkivalta",
+                "url": "https://yle.fi/t/18-19348/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20112174",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20112174",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Ilmas\\xadto\\xadtutkija Tapio Schneider on huolissaan saasteiden vähe\\xadne\\xadmisestä" },
+              "lead": {
+                "text": "Kun ilma puhdistuu saasteista, maapallon lämpötila nousee. Kali\\xadforniassa työsken\\xadtelevä ilmas\\xadto\\xadtutkija Tapio Schneider pitää sitä ilmas\\xadton\\xadmuu\\xadtoksen ”suurena tunte\\xadmat\\xadtomana”.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-e2472c2c-d7f9-4915-8f33-e28a9d477257",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-135153366ed26f3a9946",
+              "alt": "Mies talon edessä aurinkoisessa säässä.",
+              "blurhash": "LfF6kQyEMwaKt:tnM_t2tmkYoeR*",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2509,
+                    "width": 4462,
+                    "x": 0,
+                    "y": 617
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3455,
+                    "width": 2303,
+                    "x": 1686,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3455,
+                    "width": 3455,
+                    "x": 686,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 1782,
+                    "width": 4455,
+                    "x": 0,
+                    "y": 544
+                  }
+                }
+              ],
+              "version": "1726818145"
+            },
+            "publishedAt": "2024-10-15T11:07:34+0300",
+            "concepts": [
+              {
+                "id": "18-215534",
+                "text": "Ilmasto",
+                "url": "https://yle.fi/t/18-215534/fi"
+              },
+              {
+                "id": "18-217087",
+                "text": "Ilmastonmuutos",
+                "url": "https://yle.fi/t/18-217087/fi"
+              },
+              {
+                "id": "18-15995",
+                "text": "Ilman epäpuhtaudet",
+                "url": "https://yle.fi/t/18-15995/fi"
+              },
+              {
+                "id": "18-207547",
+                "text": "Lämpötila",
+                "url": "https://yle.fi/t/18-207547/fi"
+              },
+              {
+                "id": "18-212923",
+                "text": "Tiede",
+                "url": "https://yle.fi/t/18-212923/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117985",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117985",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Taiwan havaitsi 153 kiinalaista soti\\xadlas\\xadkonetta lähia\\xadlueillaan – Kiina on ”testannut kykyään kaapata valta”" },
+              "lead": {
+                "text": "Maanantain sota\\xadhar\\xadjoi\\xadtukset olivat Kiinan neljännet laaja\\xadmit\\xadtaiset harjoitukset Taiwanin ympärillä kahden vuoden sisällä.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-796ca916-ff1e-4b75-975a-61b77b940293",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-12908526650a91e465ba",
+              "alt": "Taiwanilainen sotilas tarkkailee Kiinan sotaharjoitusta merellä.",
+              "blurhash": "LpFsMgtRM{a}_NofRjj[xaV@WVax",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1182,
+                    "width": 2102,
+                    "x": 0,
+                    "y": 82
+                  }
+                }
+              ],
+              "version": "1716562295"
+            },
+            "publishedAt": "2024-10-15T11:06:20+0300",
+            "concepts": [
+              {
+                "id": "18-168817",
+                "text": "Kiina",
+                "url": "https://yle.fi/t/18-168817/fi"
+              },
+              {
+                "id": "18-182661",
+                "text": "Taiwan",
+                "url": "https://yle.fi/t/18-182661/fi"
+              },
+              {
+                "id": "18-210434",
+                "text": "Sotaharjoitukset",
+                "url": "https://yle.fi/t/18-210434/fi"
+              },
+              {
+                "id": "18-182331",
+                "text": "Aasia",
+                "url": "https://yle.fi/t/18-182331/fi"
+              },
+              {
+                "id": "18-95992",
+                "text": "Taiwaninsalmi",
+                "url": "https://yle.fi/t/18-95992/fi"
+              },
+              {
+                "id": "18-34953",
+                "text": "Ulkomaat",
+                "url": "https://yle.fi/t/18-34953/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20116607",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20116607",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Tässä on laite, jonka avulla Suomi voi saada huippu\\xadtason hiihtäjiä" },
+              "lead": {
+                "text": "Tule\\xadvai\\xadsuudessa Joensuun Mehtimäen testaus\\xada\\xadsemalla pääsevät harjoit\\xadte\\xadlemaan urhei\\xadli\\xadjoiden lisäksi myös kuntoilijat.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-b3c8f2c2-2534-42fa-b4bd-49ce78acf0e9",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-136234467091b9a338f5",
+              "alt": "Kuvassa on leveä rullahiihtomatto.",
+              "blurhash": "L9ELvrYRnm%2}UyDxtIAIUs;X9Mx",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1919,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1080,
+                    "x": 556,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728650254"
+            },
+            "playableMedia": {
+              "id": "1-72119998",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T10:49:20+0300",
+            "concepts": [
+              {
+                "id": "18-219772",
+                "text": "Hiihto",
+                "url": "https://yle.fi/t/18-219772/fi"
+              },
+              {
+                "id": "18-202747",
+                "text": "Joensuu",
+                "url": "https://yle.fi/t/18-202747/fi"
+              },
+              {
+                "id": "18-332510",
+                "text": "Joensuu Areena",
+                "url": "https://yle.fi/t/18-332510/fi"
+              },
+              {
+                "id": "18-214132",
+                "text": "Kuntotestit",
+                "url": "https://yle.fi/t/18-214132/fi"
+              },
+              {
+                "id": "18-217673",
+                "text": "Hiihtolajit",
+                "url": "https://yle.fi/t/18-217673/fi"
+              },
+              {
+                "id": "18-87979",
+                "text": "Rullahiihto",
+                "url": "https://yle.fi/t/18-87979/fi"
+              },
+              {
+                "id": "18-204157",
+                "text": "Liikunta",
+                "url": "https://yle.fi/t/18-204157/fi"
+              },
+              {
+                "id": "18-220090",
+                "text": "Urheilu",
+                "url": "https://yle.fi/t/18-220090/fi"
+              },
+              {
+                "id": "18-7418",
+                "text": "Liikuntatilat",
+                "url": "https://yle.fi/t/18-7418/fi"
+              },
+              {
+                "id": "18-336621",
+                "text": "Mehtimäki",
+                "url": "https://yle.fi/t/18-336621/fi"
+              },
+              {
+                "id": "18-189791",
+                "text": "Pohjois-Karjala",
+                "url": "https://yle.fi/t/18-189791/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Urheilu",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117976",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117976",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "SaiPa saa kokeneen paluu\\xadmuut\\xadtajan" },
+              "lead": {
+                "text": "Kim Strömberg, 36, palaa Liigaan ja Lappeen\\xadrantaan.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-4a0b4ff8-2284-4bc2-8e2a-d5416847272c",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363829670e1bffaaf88",
+              "alt": "Kim Strömberg pelasi SaiPassa viimeeksi kaudella 2017–18.",
+              "blurhash": "L7C$r}8woz-mIbt70LJ:~RwI$f=?",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2642,
+                    "width": 4697,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3130,
+                    "width": 2087,
+                    "x": 1150,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3130,
+                    "width": 3130,
+                    "x": 735,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728977996"
+            },
+            "publishedAt": "2024-10-15T10:42:20+0300",
+            "concepts": [
+              {
+                "id": "18-189456",
+                "text": "Jääkiekko",
+                "url": "https://yle.fi/t/18-189456/fi"
+              },
+              {
+                "id": "18-238187",
+                "text": "Kim Strömberg",
+                "url": "https://yle.fi/t/18-238187/fi"
+              },
+              {
+                "id": "18-180573",
+                "text": "Lappeenranta",
+                "url": "https://yle.fi/t/18-180573/fi"
+              },
+              {
+                "id": "18-180490",
+                "text": "Etelä-Karjala",
+                "url": "https://yle.fi/t/18-180490/fi"
+              }
+            ],
+            "publisher": "Yle Urheilu",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117974",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117974",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Oulun kaupungin entiselle johdolle syytteitä: Yhdys\\xadkun\\xadta\\xadjohtaja hankki auton, pyörän ja parkkipaikan kaupungin piikkiin" },
+              "lead": {
+                "text": "Oulun kaupungin entinen yhdys\\xadkun\\xadta\\xadjohtaja on saanut syytteet törkeistä rikoksista. Syyttäjän mukaan entinen kaupun\\xadgin\\xadjohtaja tiesi rikoksista, mutta ei ilmoittanut asiasta.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-c255febc-75a0-40c4-a2ca-9147fcc60315",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-6840015ed63af26bd7c",
+              "alt": "Matti Matinheikki  seisoo pihalla",
+              "blurhash": "None",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1920,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 720,
+                    "x": 657,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1080,
+                    "x": 423,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 768,
+                    "width": 1920,
+                    "x": 0,
+                    "y": 6
+                  }
+                }
+              ],
+              "version": "1591098266"
+            },
+            "publishedAt": "2024-10-15T10:36:04+0300",
+            "concepts": [
+              {
+                "id": "18-340121",
+                "text": "Rikosepäilyt",
+                "url": "https://yle.fi/t/18-340121/fi"
+              },
+              {
+                "id": "18-177640",
+                "text": "Oulu",
+                "url": "https://yle.fi/t/18-177640/fi"
+              },
+              {
+                "id": "18-310",
+                "text": "Virkamiehet",
+                "url": "https://yle.fi/t/18-310/fi"
+              },
+              {
+                "id": "18-213267",
+                "text": "Kaupunginjohtajat",
+                "url": "https://yle.fi/t/18-213267/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-198232",
+                "text": "Pohjois-Pohjanmaa",
+                "url": "https://yle.fi/t/18-198232/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117969",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117969",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Poliisi tutkii henkirikosta Tampereen Nekalassa" },
+              "lead": {
+                "text": "Sisä-Suomen poliisi tutkii Nekalassa tapahtunutta henkirikosta tappona. Poliisi sai maanantaina tiedon asunnossa olevasta vainajasta.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-479f49ea-52c1-4412-8d2b-f6b0e59b8d6a",
+              "isHidden": "True",
+              "isLocked": "True",
+              "acceptedCommentsCount": 0
+            },
+            "image": {
+              "id": "39-1363578670d153bea9a7",
+              "alt": "Valkoisiin haalareihin pukeutuneet henkilöt kantavat ruumista autoon.",
+              "blurhash": "LKEM8sMxt94:~TNLt8Nx-3RjRox^",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 2106,
+                    "width": 3744,
+                    "x": 0,
+                    "y": 217
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 2496,
+                    "width": 1663,
+                    "x": 370,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2496,
+                    "width": 2496,
+                    "x": 274,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728911519"
+            },
+            "publishedAt": "2024-10-15T10:35:20+0300",
+            "concepts": [
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-173822",
+                "text": "Pirkanmaa",
+                "url": "https://yle.fi/t/18-173822/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          }
+        ]
+      },
+      {
+        "type": 2,
+        "title": "Kommentoiduimmat",
+        "ariaLabelId": "sb-most-commented",
+        "displayDate": "False",
+        "stories": [
+          {
+            "contentId": "74-20115705",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20115705",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Miesgy\\xadne\\xadko\\xadlogit katoavat alalta, koska naiset välttelevät heitä" },
+              "lead": {
+                "text": "Gyne\\xadko\\xadlogiksi opiskelevien miesten määrä on romahtanut viime vuosina. Naiset ovat haluttomia hakeutumaan miesten tutkit\\xadtavaksi, mikä vaikeuttaa jo alan koulutusta.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-ccb90ab7-b53a-4265-b202-c4d132eb328c",
+              "isHidden": "False",
+              "isLocked": "True",
+              "acceptedCommentsCount": 419
+            },
+            "image": {
+              "id": "39-13601806705076a38634",
+              "alt": "Naistentauteihin erikoistuva lääkäri Juuso Isotalo seisoo TYKSin Majakkasairaalan käytävällä ja katsoo kameraan.",
+              "blurhash": "LENTUWXUIUoz~qaK%h%M0Loyw[IU",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 3375,
+                    "width": 6000,
+                    "x": 0,
+                    "y": 436
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 4000,
+                    "width": 2666,
+                    "x": 1537,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 4000,
+                    "width": 4000,
+                    "x": 1063,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 2400,
+                    "width": 6000,
+                    "x": 0,
+                    "y": 690
+                  }
+                }
+              ],
+              "version": "1728923840"
+            },
+            "playableMedia": {
+              "id": "1-72048231",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-14T05:30:39+0300",
+            "concepts": [
+              {
+                "id": "18-216363",
+                "text": "Terveydenhuolto",
+                "url": "https://yle.fi/t/18-216363/fi"
+              },
+              {
+                "id": "18-205459",
+                "text": "Gynekologit",
+                "url": "https://yle.fi/t/18-205459/fi"
+              },
+              {
+                "id": "18-76944",
+                "text": "Naistentaudit",
+                "url": "https://yle.fi/t/18-76944/fi"
+              },
+              {
+                "id": "18-186608",
+                "text": "Turun yliopistollinen keskussairaala (TYKS)",
+                "url": "https://yle.fi/t/18-186608/fi"
+              },
+              {
+                "id": "18-198259",
+                "text": "Varsinais-Suomi",
+                "url": "https://yle.fi/t/18-198259/fi"
+              },
+              {
+                "id": "18-190106",
+                "text": "Tampereen yliopisto",
+                "url": "https://yle.fi/t/18-190106/fi"
+              },
+              {
+                "id": "18-191992",
+                "text": "Turun yliopisto",
+                "url": "https://yle.fi/t/18-191992/fi"
+              },
+              {
+                "id": "18-176134",
+                "text": "Turku",
+                "url": "https://yle.fi/t/18-176134/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20114480",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20114480",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Auli Viitalan kolumni: Köyhä ei ole arvonimi" },
+              "lead": {
+                "text": "Somessa väännetään, kuka saa sanoa olevansa köyhä. Onko se muka arvonimi, josta on kantajalle hyötyä tai kunniaa? ihmettelee Viitala.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-cb2600c8-c9ea-4455-8580-759afab6f9e7",
+              "isHidden": "False",
+              "isLocked": "True",
+              "acceptedCommentsCount": 274
+            },
+            "image": {
+              "id": "39-90960861fa69ca8e853",
+              "alt": "Ylen kolumnisti Auli Viitala.",
+              "blurhash": "L37n5l4:00~V00-:-:E1OsM{=_Nd",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 3375,
+                    "width": 6000,
+                    "x": 0,
+                    "y": 504
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3975,
+                    "width": 2649,
+                    "x": 1793,
+                    "y": 11
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 3865,
+                    "width": 3865,
+                    "x": 1271,
+                    "y": 135
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 2399,
+                    "width": 6000,
+                    "x": 0,
+                    "y": 939
+                  }
+                }
+              ],
+              "version": "1643801159"
+            },
+            "publishedAt": "2024-10-14T06:45:39+0300",
+            "concepts": [
+              {
+                "id": "18-204041",
+                "text": "Köyhyys",
+                "url": "https://yle.fi/t/18-204041/fi"
+              },
+              {
+                "id": "18-215844",
+                "text": "Kolumnit",
+                "url": "https://yle.fi/t/18-215844/fi"
+              },
+              {
+                "id": "18-35429",
+                "text": "Köyhyys ja sosiaaliturva",
+                "url": "https://yle.fi/t/18-35429/fi"
+              },
+              {
+                "id": "18-208233",
+                "text": "Pienituloiset",
+                "url": "https://yle.fi/t/18-208233/fi"
+              },
+              {
+                "id": "18-209641",
+                "text": "Sosiaalinen media",
+                "url": "https://yle.fi/t/18-209641/fi"
+              },
+              {
+                "id": "18-208756",
+                "text": "Seurakunnat",
+                "url": "https://yle.fi/t/18-208756/fi"
+              },
+              {
+                "id": "18-218587",
+                "text": "Yhteiskunta",
+                "url": "https://yle.fi/t/18-218587/fi"
+              },
+              {
+                "id": "18-215504",
+                "text": "Työkyvyttömyys",
+                "url": "https://yle.fi/t/18-215504/fi"
+              },
+              {
+                "id": "18-35046",
+                "text": "Kolumnit (Yle Radio 1)",
+                "url": "https://yle.fi/t/18-35046/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "journalisticStyle": "column",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117307",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117307",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Koulun tunnelma muuttui yhdessä yössä, kun kaupunki lopetti kasin aamut" },
+              "lead": {
+                "text": "Useat tutkimukset kertovat, että myöhäisemmät aamut hyödyttävät oppilaita. Suurin merkitys niillä on nuorille, joilla on myöhäinen unirytmi.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-7f5b1959-91e2-4e58-9028-198d048f1cf3",
+              "isHidden": "False",
+              "isLocked": "False",
+              "acceptedCommentsCount": 241
+            },
+            "image": {
+              "id": "39-1363229670cca9e13ef4",
+              "alt": "Kolme nuorta istuu ja katsoo kameraan.",
+              "blurhash": "L7IN?a00019Gaa}?yCt7?HIT?HM|",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 695,
+                    "width": 1237,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 698,
+                    "width": 465,
+                    "x": 378,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 698,
+                    "width": 698,
+                    "x": 336,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 2.5,
+                  "coordinates": {
+                    "height": 494,
+                    "width": 1237,
+                    "x": 0,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728891738"
+            },
+            "playableMedia": {
+              "id": "1-72134286",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T06:30:13+0300",
+            "concepts": [
+              {
+                "id": "18-212557",
+                "text": "Koulutus",
+                "url": "https://yle.fi/t/18-212557/fi"
+              },
+              {
+                "id": "18-122322",
+                "text": "Perusopetus",
+                "url": "https://yle.fi/t/18-122322/fi"
+              },
+              {
+                "id": "18-167867",
+                "text": "Forssa",
+                "url": "https://yle.fi/t/18-167867/fi"
+              },
+              {
+                "id": "18-219726",
+                "text": "Koululaiset",
+                "url": "https://yle.fi/t/18-219726/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              },
+              {
+                "id": "18-195288",
+                "text": "Kanta-Häme",
+                "url": "https://yle.fi/t/18-195288/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117708",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117708",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "S-ryhmä veti reilut banaanit hyllystä – ja romahdutti niiden markkinat" },
+              "lead": {
+                "text": "S-ryhmä poisti Reilun kaupan banaanit useimpien myymä\\xadlöidensä valikoimasta. Tuloksena on histo\\xadrial\\xadlinen notkahdus Reilun kaupan banaanien myynnissä. Reilun kaupan takuuhinta ei aina  nosta viljelijöitä köyhyydestä.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-258425cb-cfa9-4d0a-a260-8ef4cb3ffcd5",
+              "isHidden": "False",
+              "isLocked": "False",
+              "acceptedCommentsCount": 236
+            },
+            "image": {
+              "id": "39-1363646670d265a75961",
+              "alt": "Toimittaja Pasi Toivonen hedelmäosastolla esittelemässä Reilun kaupan banaania, sinisen takki, harmaa parta, ruskeasankaiset silmälasit.",
+              "blurhash": "LPHxKM?Fx[M|_Np0NG$~%hx[oJbH",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1919,
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 720,
+                    "x": 591,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 1080,
+                    "width": 1080,
+                    "x": 361,
+                    "y": 0
+                  }
+                }
+              ],
+              "version": "1728915113"
+            },
+            "playableMedia": {
+              "id": "1-72134010",
+              "type": "video",
+              "playMode": "external"
+            },
+            "publishedAt": "2024-10-15T05:55:39+0300",
+            "concepts": [
+              {
+                "id": "18-330776",
+                "text": "Kuluttajat",
+                "url": "https://yle.fi/t/18-330776/fi"
+              },
+              {
+                "id": "18-145992",
+                "text": "S-ryhmä",
+                "url": "https://yle.fi/t/18-145992/fi"
+              },
+              {
+                "id": "18-214501",
+                "text": "Reilu kauppa",
+                "url": "https://yle.fi/t/18-214501/fi"
+              },
+              {
+                "id": "18-206167",
+                "text": "Banaani",
+                "url": "https://yle.fi/t/18-206167/fi"
+              },
+              {
+                "id": "18-140717",
+                "text": "Lidl",
+                "url": "https://yle.fi/t/18-140717/fi"
+              },
+              {
+                "id": "18-187768",
+                "text": "Kesko",
+                "url": "https://yle.fi/t/18-187768/fi"
+              },
+              {
+                "id": "18-214130",
+                "text": "Hedelmät",
+                "url": "https://yle.fi/t/18-214130/fi"
+              },
+              {
+                "id": "18-204933",
+                "text": "Talous",
+                "url": "https://yle.fi/t/18-204933/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "format": "None"
+          },
+          {
+            "contentId": "74-20117766",
+            "type": "article",
+            "url": "https://yle.fi/a/74-20117766",
+            "size": "S",
+            "texts": {
+              "headline": { "text": "Vastaavalta päätoi\\xadmit\\xadtajalta: Pitäkää huolta Ylestä ja koko suoma\\xadlaisesta journa\\xadlis\\xadtisesta mediasta" },
+              "lead": {
+                "text": "Median kannattaa varjella pientä anarkiaa ja ikäviä kysymyksiä. Se on parasta kansanvallan puolus\\xadtamista, Jokinen pohtii näkö\\xadkul\\xadmassaan.",
+                "hidden": "False"
+              }
+            },
+            "topic": {
+              "id": "33-2924f8fa-696e-4982-beb1-7972e031d682",
+              "isHidden": "False",
+              "isLocked": "False",
+              "acceptedCommentsCount": 139
+            },
+            "image": {
+              "id": "39-1363541670d092638f22",
+              "alt": "Panu Pokkinen ja Jouko Jokinen kävelevät Ylen pihalla.",
+              "blurhash": "LIGIfYm?S@nmyZEJIVW,~WM_D*V[",
+              "crops": [
+                {
+                  "aspect": 1.78,
+                  "coordinates": {
+                    "height": 1673,
+                    "width": 2975,
+                    "x": 0,
+                    "y": 725
+                  }
+                },
+                {
+                  "aspect": 0.67,
+                  "coordinates": {
+                    "height": 3579,
+                    "width": 2385,
+                    "x": 315,
+                    "y": 0
+                  }
+                },
+                {
+                  "aspect": 1,
+                  "coordinates": {
+                    "height": 2975,
+                    "width": 2975,
+                    "x": 0,
+                    "y": 373
+                  }
+                }
+              ],
+              "version": "1728907655"
+            },
+            "publishedAt": "2024-10-15T07:30:40+0300",
+            "concepts": [
+              {
+                "id": "18-35057",
+                "text": "Media",
+                "url": "https://yle.fi/t/18-35057/fi"
+              },
+              {
+                "id": "18-344678",
+                "text": "Yle",
+                "url": "https://yle.fi/t/18-344678/fi"
+              },
+              {
+                "id": "18-208466",
+                "text": "Näkökulma",
+                "url": "https://yle.fi/t/18-208466/fi"
+              },
+              {
+                "id": "18-258128",
+                "text": "Jouko Jokinen",
+                "url": "https://yle.fi/t/18-258128/fi"
+              },
+              {
+                "id": "18-34837",
+                "text": "Kotimaa",
+                "url": "https://yle.fi/t/18-34837/fi"
+              }
+            ],
+            "publisher": "Yle Uutiset",
+            "journalisticStyle": "analysis",
+            "format": "None"
+          }
+        ]
+      }
+    ],
+    "supplements": {
+      "postArticleHeadlines": [],
+      "postArticleHeadlinesType": "recommendations"
+    },
+    "externalCss": {
+      "css": {},
+      "darkModeCss": {}
+    }
+  },
+  "pageId": "article",
+  "page": {
+    "analyticsPageId": "article",
+    "showSiteNavigation": "False",
+    "allowArticlePublishers": [
+      {
+        "name": "Yle Uutiset",
+        "caApiId": "YLE_UUTISET"
+      },
+      {
+        "name": "Yle Uutiset - lyhyet",
+        "caApiId": "YLE_UUTISET_LYHYET"
+      },
+      {
+        "name": "Yle Uudizet karjalakse",
+        "caApiId": "YLE_KARJALAKSE"
+      }
+    ],
+    "supplements": {
+      "allowSupplementPublishers": [
+        {
+          "name": "Yle",
+          "caApiId": "YLE"
+        },
+        {
+          "name": "Yle Uutiset",
+          "caApiId": "YLE_UUTISET"
+        },
+        {
+          "name": "Yle Urheilu",
+          "caApiId": "YLE_URHEILU"
+        },
+        {
+          "name": "Yle Asia",
+          "caApiId": "YLE_ASIA",
+          "isAihePublisher": "True"
+        },
+        {
+          "name": "yle-aihe",
+          "caApiId": "YLE_AIHE",
+          "isAihePublisher": "True"
+        },
+        {
+          "name": "Yle Luovat sisällöt ja media",
+          "caApiId": "YLE_LUME"
+        },
+        {
+          "name": "Yle Kulttuuri ja viihde",
+          "caApiId": "YLE_KULTTUURI_JA_VIIHDE",
+          "isAihePublisher": "True"
+        },
+        {
+          "name": "YleX",
+          "caApiId": "YLEX"
+        },
+        {
+          "name": "Yle Elävä arkisto",
+          "caApiId": "YLE_ELAVA_ARKISTO",
+          "isAihePublisher": "True"
+        },
+        {
+          "name": "Yle Uutisluokka",
+          "caApiId": "YLE_UUTISLUOKKA"
+        }
+      ],
+      "mostReadLimit": 5,
+      "mostReadThreshold": "30min",
+      "tuoreimmatLimit": 15,
+      "tuoreimmatExclude": {
+        "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+        "journalisticStyle": [ "non_journalistic_content" ],
+        "coverage": "LOCAL"
+      },
+      "mostCommentedThreshold": 3,
+      "mostCommentedLimit": 5,
+      "comments": {
+        "tag": "uutiset-prod,urheilu-prod,yle-aihe-lume",
+        "time": "24h"
+      }
+    },
+    "recommended": { "limit": 75 },
+    "postArticleHeadlines": "recommendations",
+    "showConcepts": "True",
+    "showPrimarySubject": "True"
+  },
+  "site": {
+    "id": "uutiset",
+    "lang": "fi",
+    "frontPageUrl": "/",
+    "pages": {
+      "uutiset-headline-news": {
+        "analyticsPageId": "uutiset/pääuutiset",
+        "showSiteNavigation": "True",
+        "supplements": {
+          "allowSupplementPublishers": [
+            {
+              "name": "Yle",
+              "caApiId": "YLE"
+            },
+            {
+              "name": "Yle Uutiset",
+              "caApiId": "YLE_UUTISET"
+            },
+            {
+              "name": "Yle Urheilu",
+              "caApiId": "YLE_URHEILU"
+            },
+            {
+              "name": "Yle Asia",
+              "caApiId": "YLE_ASIA",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "yle-aihe",
+              "caApiId": "YLE_AIHE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Luovat sisällöt ja media",
+              "caApiId": "YLE_LUME"
+            },
+            {
+              "name": "Yle Kulttuuri ja viihde",
+              "caApiId": "YLE_KULTTUURI_JA_VIIHDE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "YleX",
+              "caApiId": "YLEX"
+            },
+            {
+              "name": "Yle Elävä arkisto",
+              "caApiId": "YLE_ELAVA_ARKISTO",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Uutisluokka",
+              "caApiId": "YLE_UUTISLUOKKA"
+            }
+          ],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 15,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          },
+          "mostCommentedThreshold": 3,
+          "mostCommentedLimit": 5
+        }
+      },
+      "uutiset-local-news": {
+        "analyticsPageId": "uutiset/paikallisuutiset",
+        "showSiteNavigation": "True",
+        "supplements": {
+          "allowSupplementPublishers": [
+            {
+              "name": "Yle",
+              "caApiId": "YLE"
+            },
+            {
+              "name": "Yle Uutiset",
+              "caApiId": "YLE_UUTISET"
+            },
+            {
+              "name": "Yle Urheilu",
+              "caApiId": "YLE_URHEILU"
+            },
+            {
+              "name": "Yle Asia",
+              "caApiId": "YLE_ASIA",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "yle-aihe",
+              "caApiId": "YLE_AIHE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Luovat sisällöt ja media",
+              "caApiId": "YLE_LUME"
+            },
+            {
+              "name": "Yle Kulttuuri ja viihde",
+              "caApiId": "YLE_KULTTUURI_JA_VIIHDE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "YleX",
+              "caApiId": "YLEX"
+            },
+            {
+              "name": "Yle Elävä arkisto",
+              "caApiId": "YLE_ELAVA_ARKISTO",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Uutisluokka",
+              "caApiId": "YLE_UUTISLUOKKA"
+            }
+          ],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 15,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          },
+          "mostCommentedThreshold": 3,
+          "mostCommentedLimit": 5
+        },
+        "localNews": {
+          "profile": "ukko-uutiset-etusivu-lahella",
+          "fallbackProfile": "ukkosvenskanäradig",
+          "limit": 100
+        }
+      },
+      "tuoreimmat": {
+        "analyticsPageId": "tuoreimmat",
+        "showSiteNavigation": "True",
+        "allowTuoreimmatPublishers": [],
+        "tuoreimmatLimit": 20,
+        "imagesVisibilityToggleEnabled": "True",
+        "tuoreimmatExclude": {
+          "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+          "journalisticStyle": [ "non_journalistic_content" ],
+          "coverage": "LOCAL"
+        },
+        "showConcepts": "True"
+      },
+      "news-briefly": {
+        "analyticsPageId": "uutiset-lyhyesti",
+        "showSiteNavigation": "True",
+        "newsBrieflyId": "uutiset-lyhyesti",
+        "supplements": {
+          "allowSupplementPublishers": [
+            {
+              "name": "Yle Uutiset",
+              "caApiId": "YLE_UUTISET"
+            },
+            {
+              "name": "Yle Urheilu",
+              "caApiId": "YLE_URHEILU"
+            }
+          ],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 10,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          }
+        }
+      },
+      "article": {
+        "analyticsPageId": "article",
+        "showSiteNavigation": "False",
+        "allowArticlePublishers": [
+          {
+            "name": "Yle Uutiset",
+            "caApiId": "YLE_UUTISET"
+          },
+          {
+            "name": "Yle Uutiset - lyhyet",
+            "caApiId": "YLE_UUTISET_LYHYET"
+          },
+          {
+            "name": "Yle Uudizet karjalakse",
+            "caApiId": "YLE_KARJALAKSE"
+          }
+        ],
+        "supplements": {
+          "allowSupplementPublishers": [
+            {
+              "name": "Yle",
+              "caApiId": "YLE"
+            },
+            {
+              "name": "Yle Uutiset",
+              "caApiId": "YLE_UUTISET"
+            },
+            {
+              "name": "Yle Urheilu",
+              "caApiId": "YLE_URHEILU"
+            },
+            {
+              "name": "Yle Asia",
+              "caApiId": "YLE_ASIA",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "yle-aihe",
+              "caApiId": "YLE_AIHE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Luovat sisällöt ja media",
+              "caApiId": "YLE_LUME"
+            },
+            {
+              "name": "Yle Kulttuuri ja viihde",
+              "caApiId": "YLE_KULTTUURI_JA_VIIHDE",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "YleX",
+              "caApiId": "YLEX"
+            },
+            {
+              "name": "Yle Elävä arkisto",
+              "caApiId": "YLE_ELAVA_ARKISTO",
+              "isAihePublisher": "True"
+            },
+            {
+              "name": "Yle Uutisluokka",
+              "caApiId": "YLE_UUTISLUOKKA"
+            }
+          ],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 15,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          },
+          "mostCommentedThreshold": 3,
+          "mostCommentedLimit": 5,
+          "comments": {
+            "tag": "uutiset-prod,urheilu-prod,yle-aihe-lume",
+            "time": "24h"
+          }
+        },
+        "recommended": { "limit": 75 },
+        "postArticleHeadlines": "recommendations",
+        "showConcepts": "True",
+        "showPrimarySubject": "True"
+      },
+      "subject": {
+        "analyticsPageId": "subject",
+        "showSiteNavigation": "False",
+        "allowSubjectPublishers": [
+          {
+            "name": "Yle",
+            "caApiId": "YLE"
+          },
+          {
+            "name": "Yle Uutiset",
+            "caApiId": "YLE_UUTISET"
+          },
+          {
+            "name": "Yle Urheilu",
+            "caApiId": "YLE_URHEILU"
+          },
+          {
+            "name": "Yle Asia",
+            "caApiId": "YLE_ASIA",
+            "isAihePublisher": "True"
+          },
+          {
+            "name": "yle-aihe",
+            "caApiId": "YLE_AIHE",
+            "isAihePublisher": "True"
+          },
+          {
+            "name": "Yle Luovat sisällöt ja media",
+            "caApiId": "YLE_LUME"
+          },
+          {
+            "name": "Yle Kulttuuri ja viihde",
+            "caApiId": "YLE_KULTTUURI_JA_VIIHDE",
+            "isAihePublisher": "True"
+          },
+          {
+            "name": "YleX",
+            "caApiId": "YLEX"
+          },
+          {
+            "name": "Yle Elävä arkisto",
+            "caApiId": "YLE_ELAVA_ARKISTO",
+            "isAihePublisher": "True"
+          },
+          {
+            "name": "Yle Uutisluokka",
+            "caApiId": "YLE_UUTISLUOKKA"
+          },
+          {
+            "name": "svenska-nyheter",
+            "humanReadableNameOverride": "Svenska Yle",
+            "caApiId": "SVENSKA_NYHETER"
+          },
+          {
+            "name": "svenska-sport",
+            "humanReadableNameOverride": "Yle Sporten",
+            "caApiId": "SVENSKA_SPORT"
+          },
+          {
+            "name": "Yle News",
+            "caApiId": "YLE_NEWS",
+            "subjectPageDisplayName": "News",
+            "publisherSiteFrontPagePath": "/news"
+          },
+          {
+            "name": "Yle Novosti",
+            "caApiId": "YLE_NOVOSTI",
+            "subjectPageDisplayName": "???????",
+            "publisherSiteFrontPagePath": "/novosti"
+          },
+          {
+            "name": "Yle Novyny",
+            "caApiId": "YLE_NOVYNY",
+            "subjectPageDisplayName": "??????",
+            "publisherSiteFrontPagePath": "/novyny"
+          },
+          {
+            "name": "Yle Sapmi",
+            "caApiId": "YLE_SAPMI",
+            "subjectPageDisplayName": "Sápmi",
+            "publisherSiteFrontPagePath": "/sapmi"
+          },
+          {
+            "name": "Yle Viestintä",
+            "caApiId": "YLE_VIESTINTA",
+            "subjectPageDisplayName": "Yle yhtiönä",
+            "isAihePublisher": "True"
+          }
+        ],
+        "mostRecentLimit": 40,
+        "supplements": {
+          "allowSupplementPublishers": [
+            {
+              "name": "Yle Uutiset",
+              "caApiId": "YLE_UUTISET"
+            },
+            {
+              "name": "Yle Urheilu",
+              "caApiId": "YLE_URHEILU"
+            },
+            {
+              "name": "Yle Uutisluokka",
+              "caApiId": "YLE_UUTISLUOKKA"
+            }
+          ],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 15,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          },
+          "mostCommentedThreshold": 3,
+          "mostCommentedLimit": 5
+        }
+      },
+      "not-found": {
+        "analyticsPageId": "not-found",
+        "showSiteNavigation": "False",
+        "supplements": {
+          "allowSupplementPublishers": [],
+          "mostReadLimit": 5,
+          "mostReadThreshold": "30min",
+          "tuoreimmatLimit": 0,
+          "tuoreimmatExclude": {
+            "properties": [ "importance:low", "automaticListHint:never", "automaticListHint:no-recently" ],
+            "journalisticStyle": [ "non_journalistic_content" ],
+            "coverage": "LOCAL"
+          }
+        }
+      }
+    },
+    "navigation": {
+      "siteLink": {
+        "text": "Uutiset",
+        "href": "/uutiset"
+      },
+      "items": [
+        {
+          "type": "link",
+          "text": "Lyhyesti",
+          "href": "/uutiset",
+          "activeRegExp": "^(\\/uutiset\\/?|\\/uutiset\\/lyhyesti\\/.+)$"
+        },
+        {
+          "type": "link",
+          "text": "Pääuutiset",
+          "href": "/uutiset/paauutiset"
+        },
+        {
+          "type": "link",
+          "text": "Paikallisuutiset",
+          "href": "/uutiset/paikallisuutiset"
+        },
+        {
+          "type": "menu",
+          "text": "Maakunnat",
+          "links": [
+            {
+              "type": "link",
+              "text": "Etelä-Karjala",
+              "href": "https://yle.fi/t/18-180490/fi"
+            },
+            {
+              "type": "link",
+              "text": "Etelä-Pohjanmaa",
+              "href": "https://yle.fi/t/18-171883/fi"
+            },
+            {
+              "type": "link",
+              "text": "Etelä-Savo",
+              "href": "https://yle.fi/t/18-191034/fi"
+            },
+            {
+              "type": "link",
+              "text": "Kainuu",
+              "href": "https://yle.fi/t/18-178011/fi"
+            },
+            {
+              "type": "link",
+              "text": "Kanta-Häme",
+              "href": "https://yle.fi/t/18-195288/fi"
+            },
+            {
+              "type": "link",
+              "text": "Keski-Pohjanmaa",
+              "href": "https://yle.fi/t/18-188752/fi"
+            },
+            {
+              "type": "link",
+              "text": "Keski-Suomi",
+              "href": "https://yle.fi/t/18-185882/fi"
+            },
+            {
+              "type": "link",
+              "text": "Kymenlaakso",
+              "href": "https://yle.fi/t/18-198551/fi"
+            },
+            {
+              "type": "link",
+              "text": "Lappi",
+              "href": "https://yle.fi/t/18-178334/fi"
+            },
+            {
+              "type": "link",
+              "text": "Pirkanmaa",
+              "href": "https://yle.fi/t/18-173822/fi"
+            },
+            {
+              "type": "link",
+              "text": "Pohjanmaa",
+              "href": "https://yle.fi/t/18-174627/fi"
+            },
+            {
+              "type": "link",
+              "text": "Pohjois-Karjala",
+              "href": "https://yle.fi/t/18-189791/fi"
+            },
+            {
+              "type": "link",
+              "text": "Pohjois-Pohjanmaa",
+              "href": "https://yle.fi/t/18-198232/fi"
+            },
+            {
+              "type": "link",
+              "text": "Pohjois-Savo",
+              "href": "https://yle.fi/t/18-181838/fi"
+            },
+            {
+              "type": "link",
+              "text": "Päijät-Häme",
+              "href": "https://yle.fi/t/18-169788/fi"
+            },
+            {
+              "type": "link",
+              "text": "Satakunta",
+              "href": "https://yle.fi/t/18-197394/fi"
+            },
+            {
+              "type": "link",
+              "text": "Uusimaa",
+              "href": "https://yle.fi/t/18-177980/fi"
+            },
+            {
+              "type": "link",
+              "text": "Varsinais-Suomi",
+              "href": "https://yle.fi/t/18-198259/fi"
+            },
+            {
+              "type": "link",
+              "text": "Ahvenanmaa",
+              "href": "https://yle.fi/t/18-168867/fi"
+            }
+          ]
+        }
+      ]
+    },
+    "analytics": {
+      "account": "uutiset",
+      "product": "uutiset",
+      "env": "production"
+    },
+    "siteName": "Yle Uutiset",
+    "tunnusAppId": "uutiset"
+  },
+  "clientConfig": {
+    "appId": "ukko",
+    "rootUrl": "https://yle.fi",
+    "assetRoot": "https://yle.fi/ukko/assets",
+    "isProd": "True",
+    "isTest": "False",
+    "tunnusEnv": "production",
+    "consentEnv": "prod",
+    "consentSDKEnabled": "True",
+    "apiAppId": "ukko_prod",
+    "apiAppKey": "12150df3a0c8844d37c520235bf7c5d4",
+    "caApiUrl": "https://ca.api.yle.fi/v1",
+    "weatherApiUrl": "https://weather.api.yle.fi/v2",
+    "weatherApiAppId": "ukko",
+    "weatherApiAppKey": "SSiMwsm18UZ8y1UnY66KIwUVPDz1ixLu",
+    "weatherMapTileUrl": "https://yle.fi/saa/map-tiles",
+    "uutisvahtiApiUrl": "https://uutisvahti.yle.fi/v5",
+    "locationsApiUrl": "https://locations.api.yle.fi/v4/address/current",
+    "articleRecommenderUrl": "https://yle-recommender-front.api.yle.fi/v3",
+    "imagesApiHost": "https://images.cdn.yle.fi",
+    "experimentalVideoPlayer": "False",
+    "dataApiHost": "https://livefeed-data.api.yle.fi",
+    "dataApiAppKey": "y6gq9xO6ZHHCV0r097WV6aESQrdCWFu2",
+    "interactiveTableHost": "https://taulukkodata.ylestatic.fi",
+    "cspReportEndpointUrl": "https://csp.aws.yle.fi/index",
+    "programsApiAppKey": "9JkKarWlQVnCNm1nbTQ6zQkleiBQ76Xg",
+    "programsApiUrl": "https://programs.api.yle.fi",
+    "tehtavaEmbedUrl": "https://tehtava-ui.apps.yle.fi",
+    "formsApiUrl": "https://forms.api.yle.fi",
+    "formsApiAppKey": "TduK5nLw6aLrwa2tkvrirHsDvFudxyYr",
+    "appPromotionFooterUrl": "https://yle.onelink.me/46xJ/nptsuhj6",
+    "audioContentEnabled": "True",
+    "layoutFrontApiUrl": "https://layout-front.api.yle.fi",
+    "layoutFrontApiAppId": "ukko",
+    "layoutFrontApiAppKey": "weTyEj7RwTjAzbVr73uSypbcSALJ4xDk"
+  },
+  "user": {
+    "initialized": "False",
+    "loggedIn": "False",
+    "userId": "None"
+  },
+  "preferences": { "tuoreimmatImagesHidden": "False" },
+  "consent": {
+    "initialized": "False",
+    "consent": {
+      "development": "False",
+      "personalization": "False",
+      "targeting": "False",
+      "embedded_social_media": "False",
+      "version": 0
+    }
+  },
+  "ssrDetails": {
+    "path": "/a/74-20117600",
+    "ssrTime": "2024-10-15T12:14:20+03:00"
+  },
+  "consentConfig": {
+    "consentSdkEnabled": "True",
+    "consentEnv": "prod",
+    "lang": "FI"
+  },
+  "header": {
+    "currentTopics": [
+      {
+        "url": "https://yle.fi/t/18-334977/fi",
+        "title": "Venäjän hyökkäys"
+      },
+      {
+        "url": "https://yle.fi/t/18-185583/fi",
+        "title": "Lähi-itä"
+      },
+      {
+        "url": "https://yle.fi/t/18-345335/fi",
+        "title": "Yhdysvaltain presidentinvaalit"
+      }
+    ],
+    "lang": "fi"
+  },
+  "analyticsConfig": {
+    "sendHighVolumeImpressions": "True",
+    "articleId": "74-20117600"
+  },
+  "playlist": { "isVisible": "False" },
+  "abTests": {
+    "activeAbTests": [],
+    "ukkoManagedAbTestName": "fpAA"
+  }
+}
+Press any key to continue . . .

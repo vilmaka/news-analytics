@@ -1,7 +1,7 @@
 from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 from secrets_config import *
 from azure_config import *
-from yle_get_content import *
+from yle_web_requests import *
 
 connection_string = storage_account_connection_string()
 
@@ -12,7 +12,7 @@ container_name = get_news_container_name()
 container_client = blob_service_client.get_container_client(container_name)
 
 news_url = "https://yle.fi/a/74-20116807"
-text_to_upload = get_content(news_url)
+text_to_upload = yle_get_parsed_content(news_url)
 
 metadata = {
     "url": news_url
