@@ -5,7 +5,7 @@
     <ProjectGuid>1f9b8964-d2d1-4b90-8608-9366bd3a03aa</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>azure_function.py</StartupFile>
+    <StartupFile>get_positivity_index.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -17,7 +17,7 @@
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
     <Environment>
     </Environment>
-    <InterpreterId>Global|PythonCore|3.11</InterpreterId>
+    <InterpreterId>MSBuild|.venv|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,8 +30,9 @@
   <ItemGroup>
     <Compile Include="article.py" />
     <Compile Include="azure_config.py" />
-    <Compile Include="azure_function.py" />
-    <Compile Include="save_content_to_blob.py" />
+    <Compile Include="convert_base64.py" />
+    <Compile Include="function_app.py" />
+    <Compile Include="sql_features.py" />
     <Compile Include="yle_web_requests.py" />
     <Compile Include="secrets_config.py" />
     <Compile Include="get_positivity_index.py" />
@@ -39,9 +40,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="content.json" />
+    <Content Include="local.settings.json" />
   </ItemGroup>
   <ItemGroup>
-    <InterpreterReference Include="Global|PythonCore|3.11" />
+    <Interpreter Include=".venv\">
+      <Id>.venv</Id>
+      <Version>3.11</Version>
+      <Description>.venv (Python 3.11 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -2,6 +2,8 @@ from secrets_config import *
 from azure.data.tables import TableServiceClient, TableEntity
 from yle_web_requests import article_exist
 from azure.storage.queue import QueueServiceClient
+import logging
+from convert_base64 import convert_to_base64
 
 def yle_get_new_content(batchsize: int):
     connection_string = storage_account_connection_string()
@@ -20,16 +22,17 @@ def yle_get_new_content(batchsize: int):
         print(retrieved_entity["latest"])
     
         url = "https://yle.fi/a/74-" + str(retrieved_entity["latest"] + batchsize)
+
+        print(url)
     
         if article_exist(url):
             for i in range(1, batchsize+1):
-                queue_client.send_message("https://yle.fi/a/74-" + str(retrieved_entity["latest"] + i))
+                message = convert_to_base64("https://yle.fi/a/74-" + str(retrieved_entity["latest"] + i))
+                queue_client.send_message(message)
+                #queue_client.send_message(convert_to_base64(str(retrieved_entity["latest"] + i)))
             retrieved_entity["latest"] += batchsize
             table_client.update_entity(retrieved_entity)
     
     except Exception as e:
+        logging.error(e)
         print(f"An error occurred: {e}")
-
-
-yle_get_new_content(2)
-

@@ -1,12 +1,15 @@
 import os
 from azure.storage.blob import BlobServiceClient
 from openai import AzureOpenAI
+from convert_base64 import convert_from_base64
 from secrets_config import *
 import psycopg2
+from azure.storage.queue import QueueServiceClient
+from sql_features import *
+import json
 
 connection_string = storage_account_connection_string()
 news_container_name = "news-text"
-news_blob_name = "74-20116807"
 prompt_container_name = "prompt"
 prompt_blob_name = "prompt.txt"
 
@@ -23,62 +26,39 @@ def fetch_blob_content(connection_string, container_name, blob_name):
         print(f"An error occurred: {e}")
         return None
 
+def analyze_content(news_url, news_content):
+    prompt_content = fetch_blob_content(connection_string, prompt_container_name, prompt_blob_name)
 
-news_content = fetch_blob_content(connection_string, news_container_name, news_blob_name)
-prompt_content = fetch_blob_content(connection_string, prompt_container_name, prompt_blob_name)
+    client = AzureOpenAI(
+        api_key=openapi_key(),
+        api_version="2024-02-01",
+        azure_endpoint="https://news-project-ai-eus.openai.azure.com/"
+    )
 
-client = AzureOpenAI(
-    api_key=openapi_key(),
-    api_version="2024-02-01",
-    azure_endpoint="https://news-project-ai-eus.openai.azure.com/"
-)
+    deployment_name = "gpt35turbo"
 
-deployment_name = "gpt35turbo"
+    prompt = prompt_content.replace("{CONTENT}", news_content)
 
-prompt = prompt_content.replace("{CONTENT}", news_content)
+    response = client.completions.create(
+        model=deployment_name,
+        prompt=prompt,
+        temperature=0,
+        max_tokens=1,
+        top_p=0.5,
+        frequency_penalty=0,
+        presence_penalty=0,
+        stop=None
+    )
 
-response = client.completions.create(
-    model=deployment_name,
-    prompt=prompt,
-    temperature=0,
-    max_tokens=1,
-    top_p=0.5,
-    frequency_penalty=0,
-    presence_penalty=0,
-    stop=None
-)
+    insert_positivity_index_to_sql(news_url, int(response.choices[0].text))
 
-print(response.choices[0].text)
+def analyze_next_batch():
+    queue_service_client = QueueServiceClient.from_connection_string(storage_account_connection_string())
+    queue_client = queue_service_client.get_queue_client("downloaded-articles")
 
+    messages = queue_client.receive_messages(max_messages=2)
+    for message in messages:
+        article_json = convert_from_base64(message.content)
+        article = json.loads(article_json)
+        analyze_content(article["url"], article["content"])
 
-#Insert the positivity index row to database.
-
-conn = psycopg2.connect(
-    dbname='news-data',
-    user=sql_username(),
-    password=sql_password(),
-    host='news-sql.postgres.database.azure.com',
-    port='5432'
-)
-
-transaction = conn.cursor()
-
-insert_query = """
-INSERT INTO news_scale (id, index_column)
-VALUES (%s, %s);
-"""
-
-data_to_insert = (news_blob_name, int(response.choices[0].text))
-
-try:
-    transaction.execute(insert_query, data_to_insert)
-    
-    conn.commit()
-    
-    print("Row inserted successfully.")
-except Exception as e:
-    print(f"An error occurred: {e}")
-    conn.rollback()
-finally:
-    transaction.close()
-    conn.close()

@@ -22,8 +22,9 @@ def yle_get_parsed_content(url: str) -> Article:
     title = get_title(json_data)
     language = get_language(json_data)
     tags = get_tags(json_data)
+    date = get_date(json_data)
     
-    return Article(url, title, content, language, tags)
+    return Article(url, title, content, language, tags, date)
 
 def get_content_string(json_data):
     content_json = json_data['pageData']['article']['content']
@@ -41,16 +42,21 @@ def get_language(json_data):
     return json_data["pageData"]["article"]["language"]
 
 def get_tags(json_data):
-    tags = []
-    tags_json = json_data["pageData"]["article"]["mainMedia"][0]["tags"]
+    try:
+        tags = []
+        tags_json = json_data["pageData"]["article"]["mainMedia"][0]["tags"]
 
-    for tag in tags_json:
-        for label in tag["label"]:
-            if label["language"] == "fin":
-                tags.append(label["value"])
+        for tag in tags_json:
+            for label in tag["label"]:
+                if label["language"] == "fin":
+                    tags.append(label["value"])
 
-    return tags
+        return tags
+    except:
+        return []
 
+def get_date(json_data):
+    return json_data["pageData"]["article"]["datePublished"]
 
 def article_exist(url: str):
     response = requests.get(url)
@@ -61,5 +67,3 @@ def article_exist(url: str):
         return False
     else:
         raise Exception(f"Received status code: {response.status_code}")
-
-yle_get_parsed_content("https://yle.fi/a/74-20117600")
